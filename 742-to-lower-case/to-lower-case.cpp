@@ -7,7 +7,7 @@ public:
                 s[i] = (s[i] + 32);
             }
             else{
-                s[i] = s[i];
+                continue;
             }
         }
         return s;
