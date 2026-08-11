@@ -1,4 +1,8 @@
 class Solution {
+    private:
+    bool isVowel(char ch){
+        return isVowel(ch);
+    }
 public:
     string interpret(string c) {
         int n = c.size();
